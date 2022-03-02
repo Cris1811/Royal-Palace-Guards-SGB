@@ -1,1 +1,3 @@
-# Royal-Palace-Guards-SGB
+# RPG-SpaceGuardsBattle
+
+This will eventually get updated
